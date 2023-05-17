@@ -24,5 +24,10 @@ Learning HTML
     <td>Activity-3</td>
     <td>Understing of External JavaScript</td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>Activity-4</td>
+    <td>Understing NoScript Tag</td>
+  </tr>
 </table>
 
