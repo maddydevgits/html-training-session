@@ -39,5 +39,10 @@ Learning HTML
     <td>Activity-6</td>
     <td>Insert the Icon for Web Documents</td>
   </tr>
+  <tr>
+    <td>7</td>
+    <td>Activity-7</td>
+    <td>Title for Web Documents</td>
+  </tr>
 </table>
 
